@@ -1,6 +1,6 @@
 # LeetCode 
 
-### **LeetCode Problem Solutions**
+### **My solutions to some leetcode problems**
 
 | **#** |**Title**|**Solution**|
 |-------|---|---|
