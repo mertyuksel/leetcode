@@ -10,3 +10,4 @@
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./src/ValidPalindrome.java)   |
 | 217   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./src/ContainsDuplicate.java) |
 | 242   | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./src/ValidAnagram.java)      |
+| 1356  | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Solution](./src/SortIntegersbyTheNumberof1Bits.java)      |
